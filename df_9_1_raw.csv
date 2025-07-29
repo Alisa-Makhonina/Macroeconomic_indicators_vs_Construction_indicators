@@ -1,0 +1,69 @@
+0,1,2,3,4,5
+"Table 1a: Monthly construction material price indices, United Kingdom [note 1]",,,,,
+The publication of data contained in this worksheet has been put on pause as a result of the ONS pausing publication of producer price indices.,,,,,
+This worksheet contains one table. Some cells refer to notes which can be found in the notes worksheet. ,,,,,
+"Freeze panes are turned on. To turn off, select the 'View' ribbon, then 'Freeze panes', then 'Unfreeze panes': or use [Alt,W,F]",,,,,
+Source: DBT/ONS/Building cost information service (BCIS),,,,,
+Base year: 2015=100,,,,,
+Year,Month,New Housing,Other New Work,Repair and Maintenance,All Work
+2020,January,110.9,110.6,111.3,110.7
+2020,February,111.4,110.7,111.7,111
+2020,March,111.7,111.1,111.7,111.2
+2020,April,111.7,112.4,111.7,113.5
+2020,May,112.5,112.8,112.2,113.9
+2020,June,111.9,111.5,111.8,111.8
+2020,July,112.2,111.4,112,111.6
+2020,August,112.3,111.5,112.3,111.6
+2020,September,112.9,111.4,112.9,111.6
+2020,October,113.5,111.7,113.4,111.9
+2020,November,114.5,113.6,114.6,113.5
+2020,December,116.3,115.2,116,115.1
+2021,January,116.7,116.7,117.1,116.5
+2021,February,118.9,118.9,119.4,118.7
+2021,March,120,121.5,120.8,120.3
+2021,April,121,123.7,122.4,122.4
+2021,May,123,126.5,124.6,124.8
+2021,June,124.8,129.3,126.5,127.2
+2021,July,126.9,132.5,129.2,130.4
+2021,August,134.1,135.7,137.4,135.4
+2021,September,137.1,137,140.8,137.3
+2021,October,138.4,137.9,142.3,138.4
+2021,November,139.9,140.2,144,140.3
+2021,December,140.9,141.2,144.5,141
+2022,January,139.6,142.6,143.5,141.3
+2022,February,139.1,143.9,142.2,141.6
+2022,March,139.3,149.7,142.1,144.6
+2022,April,142.5,158.7,146.6,151.3
+2022,May,148.9,165.3,154,157.8
+2022,June,154.7,168.7,157.8,161.3
+2022,July,156.3,168.6,160,162.7
+2022,August,153.3,165.3,157.8,159.9
+2022,September,151.1,164.5,155.1,158
+2022,October,150.6,164.2,154.3,157.2
+2022,November,151.4,162.4,153.8,156.9
+2022,December,151.1,161.8,152.7,156.3
+2023,January,150.3,161,151.1,155.4
+2023,February,152.2,161,152.9,156.1
+2023,March,152.8,163.2,153,157.3
+2023,April,153.2,164.3,153.7,158.6
+2023,May,154.4,162.8,154.6,158.1
+2023,June,153.6,159.9,153.2,155.9
+2023,July,153.5,158.8,152.8,155.7
+2023,August,153.7,158.3,153.1,155.4
+2023,September,152.7,157,152.4,154.3
+2023,October,151.8,156.5,152.1,153.8
+2023,November,151,155.8,151.1,152.9
+2023,December,150.9,155,150.6,152.3
+2024,January,150.9,156.6,150.3,153.2
+2024,February,150.8,156.1,150.5,152.8
+2024,March,152.5,156.3,151.8,153.3
+2024,April,153,156.2,152.6,153.7
+2024,May,154.5,156.3,154,154.4
+2024,June,154.7,156,154.3,154.5
+2024,July,153.9,155.4,153.5,154.1
+2024,August,153.6,154.9,153.3,153.8
+2024,September,153.3,154.4,152.8,153
+2024,October,152.9,153.7,152.1,152.2
+2024,November [p],153,154,152.1,152.9
+2024,December [p],152.9,152.9,152.1,152.1
+2025,January [p],152.4,153.2,151.8,151.8
